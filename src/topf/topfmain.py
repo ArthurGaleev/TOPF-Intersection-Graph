@@ -450,6 +450,11 @@ def topf(
             "death_times": death_times,
             "feature_significance": feature_significance,
             "feature_dim": feature_dim,
+            # NEW — needed for cocycle-level similarities:
+            "scaled_vecs": multi_scaled_vecs,        # post-processed, what topf actually uses
+            "eigen_vecs": multi_eigen_vecs,          # raw, in case you want pre-thresholding
+            "multi_simplices": multi_multi_simplices, # simplex index for each cocycle
+            "multi_inds": multi_inds,
         }
         return short_flat_signatures, collected_return_dict
     else:
