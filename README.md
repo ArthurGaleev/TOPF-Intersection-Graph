@@ -267,7 +267,7 @@ To run them you need to set up [Julia locally](https://julialang.org/) or use co
 ## Pretrained files
 You can download the exact topological features used in [`diploma_experiments.ipynb`](https://github.com/ArthurGaleev/TOPF-Intersection-Graph/blob/main/diploma_experiments.ipynb) from [here](https://drive.google.com/drive/folders/1DM4ap4YIMldsxNKBc7QxNf5OQXPjnRYd?usp=sharing).
 
-You can dwonload the pretrained autoencoder for MNIST and CIFAR-10 used in [`diploma_experiments.ipynb`](https://github.com/ArthurGaleev/TOPF-Intersection-Graph/blob/main/diploma_experiments.ipynb)from [here](https://drive.google.com/drive/folders/1toL95sE2WOSii4pvJ-HOFqvBm-le72gs?usp=sharing).
+You can dwonload the pretrained autoencoder for MNIST and CIFAR10 used in [`diploma_experiments.ipynb`](https://github.com/ArthurGaleev/TOPF-Intersection-Graph/blob/main/diploma_experiments.ipynb)from [here](https://drive.google.com/drive/folders/1toL95sE2WOSii4pvJ-HOFqvBm-le72gs?usp=sharing).
 
 ## References
 - Vincent P.Grande and Michael T.Schaub. Topological Point Cloud Clustering. In *40th International Conference on Machine Learning (ICML)*, 2023.
