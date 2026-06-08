@@ -2,6 +2,8 @@
 
 The diploma on Topological Point Cloud Clustering method (V.P.Grande and M.T.Schaub, [2023](https://arxiv.org/abs/2303.16716)). The work investigated compatibility of topological features (V.P.Grande and M.T.Schaub, [2025](https://arxiv.org/abs/2406.02300)) and cap/cup products with KMeans, Deep Embedding Clustering (Xie et al., [2016](https://arxiv.org/abs/1511.06335)), Contrastive Clustering  (Le et al., [2020](https://arxiv.org/abs/2009.09687)) algorithms on [MNIST](https://docs.pytorch.org/vision/stable/generated/torchvision.datasets.MNIST.html#torchvision.datasets.MNIST) and [CIFAR10](https://docs.pytorch.org/vision/stable/generated/torchvision.datasets.CIFAR10.html#torchvision.datasets.CIFAR10) datasets in [`diploma_experiments.ipynb`](https://github.com/ArthurGaleev/TOPF-Intersection-Graph/blob/main/diploma_experiments.ipynb). Also intersection graphs were built on the top of my own implementation in [`my_topf_intersection_graphs.ipynb`](https://github.com/ArthurGaleev/TOPF-Intersection-Graph/blob/main/my_topf_intersection_graphs.ipynb) and on the top of topf (Grande et al., [2025](https://arxiv.org/abs/2406.02300)) [python package](https://pypi.org/project/topf/) in [`topf_intersection_graphs.ipynb`](https://github.com/ArthurGaleev/TOPF-Intersection-Graph/blob/main/topf_intersection_graphs.ipynb).
 
+For a brief visual summary of the project's methodology and key results, check out the **[`poster.pdf`](https://github.com/ArthurGaleev/TOPF-Intersection-Graph/blob/main/poster.pdf)**.
+
 Obtained results:
 <table>
   <thead>
